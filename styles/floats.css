@@ -1,0 +1,22 @@
+
+@media (min-width:768px){
+nav {
+    float: left;
+    width: 15%;
+}
+
+main {
+    float: left;
+    width: 55%;
+
+}
+
+aside {
+    float: left;
+    width: 30%;
+}
+
+footer {
+    clear: left;
+}
+}
