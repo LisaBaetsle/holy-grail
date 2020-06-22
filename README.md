@@ -1,3 +1,3 @@
 # holy-grail
 
-flamboyant-haibt-3f873b.netlify.app
+https://fervent-kirch-053ca0.netlify.app
